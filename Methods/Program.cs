@@ -26,7 +26,7 @@ namespace Methods
 
             Urun[] urunler = new Urun[] {urun1,urun2,urun3};
 
-            //Fpr ile Listelemel için
+            //For ile Listelemel için
             //for (int i = 0; i < urunler.Length; i++)
             {
                //Urun urun = urunler[i];

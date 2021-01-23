@@ -25,7 +25,7 @@ namespace DegerVeReferansTipler
         //array,class,string gibi değerler referans alır. stackte tanımlanır ve heap'e adreslenir.
         //bu nedenle adreslemeyi değiştirirsen, hep değişen adrese gider, değeri değiştirirsen değiştirdiğin değerde kalır.
 
-
+            //deneme
         }
     }
 }
